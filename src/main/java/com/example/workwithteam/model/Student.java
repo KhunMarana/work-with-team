@@ -7,4 +7,6 @@ import jakarta.persistence.Id;
 public class Student {
     @Id
     private String id;
+    private String name;
+    private String namee;
 }
